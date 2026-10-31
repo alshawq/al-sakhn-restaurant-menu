@@ -1,2 +1,6 @@
-# al-sakhn-restaurant-menu
-Responsive Arabic digital restaurant menu with QR code support and an interactive management dashboard by AL SHAWQ.
+# الساخن | ALSAKHN
+نموذج تفاعلي لقائمة طعام رقمية عربية RTL مستوحاة من الصور المرجعية المرفقة.
+
+افتح index.html في المتصفح. الصور المقتطعة من المراجع موجودة في assets.
+الوظائف التجريبية: تصفح الأقسام، البحث، عرض تفاصيل الوجبة، إضافة للسلة وتعديل الكميات.
+ملاحظة: لا يوجد نظام طلبات حقيقي أو بوابة دفع. رمز QR يولّد من عنوان الصفحة عند فتحها؛ عند النشر على رابط عام يصبح قابلاً للمشاركة.
